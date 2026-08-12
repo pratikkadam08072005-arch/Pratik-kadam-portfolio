@@ -1,4 +1,3 @@
-# Pratik-kadam-portfolio
 # Personal Portfolio Website
 
 A modern and responsive personal portfolio website built to showcase my **skills, projects, professional experience, services, and achievements**. The portfolio provides an interactive and user-friendly interface with smooth animations and responsive design for different screen sizes.
@@ -31,9 +30,6 @@ A modern and responsive personal portfolio website built to showcase my **skills
 * Figma
 
 ### 📂 Projects Featured
-
-* Footwear Website
-* Student Performance Prediction System
 * Personal Portfolio Website
 
 ### 🎯 Purpose
